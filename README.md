@@ -15,7 +15,7 @@ https://discord.gg/DyFUp2bvQE
       Step 1:  Go to the releases page and download the latest release
       Step 2:  If you have not already, install the Unleashed Firmware onto your Flipper
       Step 3:  Open the qFlipper app and connect your Flipper Zero
-      Step 4:  Click the rench icon at the top of the application
+      Step 4:  Click the wrench icon at the top of the application
       Step 5:  Click on the restore button
       Step 6:  Find the Techtelligence package and click open
       Step 7:  Sit back and relax as the scripts get installed.  
